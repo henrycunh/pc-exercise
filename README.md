@@ -7,3 +7,8 @@ Install the OpenGL and GLUT libraries, and you should be able to compile the cod
 ```bash
 sudo apt install mesa-utils freeglut3-dev
 ```
+
+Build the code by clone the repository, hopping into the directory and executing the shell script.
+```bash
+git clone 
+```
